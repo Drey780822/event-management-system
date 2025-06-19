@@ -1,6 +1,6 @@
 # 🌐 Live Demo
 
-🔗 **Hosted on GitHub Pages:** [View the Live Site](https://<your-username>.github.io/event-management-system/)
+🔗 **Hosted on GitHub Pages:** [View the Live Site]([https://<your-username>.github.io/event-management-system/](https://drey780822.github.io/event-management-system/))
 
 
 ---
