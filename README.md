@@ -1,6 +1,6 @@
 # 🌐 Live Demo
 
-🔗 **Hosted on GitHub Pages:** [View the Live Site](https://drey780822.github.io/event-management-system)
+🔗 **Hosted on GitHub Pages:** [View the Live Site](https://refilwe15.github.io/alpha-event-management-repo/)
 
 ---
 
